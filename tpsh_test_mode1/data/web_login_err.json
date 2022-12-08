@@ -1,0 +1,83 @@
+{
+  "login_1": [
+    {
+      "desc": "登录失败",
+      "phone": "17360",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "账号格式不匹配!"
+    }
+  ],
+    "login_2": [
+    {
+      "desc": "登录失败",
+      "phone": "173600767xq",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "账号格式不匹配!"
+    }
+  ],
+  "login_3": [
+    {
+      "desc": "登录失败",
+      "phone": "173600767600",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "账号格式不匹配!"
+    }
+  ],
+  "login_4": [
+    {
+      "desc": "登录失败",
+      "phone": "",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "用户名不能为空!"
+    }
+  ],
+  "login_5": [
+    {
+      "desc": "登录失败",
+      "phone": "17360076760",
+      "pwd": "mirror-00",
+      "verify_code": "8888",
+      "expect_text": "密码错误!"
+    }
+  ],
+  "login_6": [
+    {
+      "desc": "登录失败",
+      "phone": "180481149081",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "账号不存在!"
+    }
+  ],
+  "login_7": [
+    {
+      "desc": "登录失败",
+      "phone": "17360076760",
+      "pwd": "",
+      "verify_code": "8888",
+      "expect_text": "密码不能为空!"
+    }
+  ],
+    "login_8": [
+    {
+      "desc": "登录失败",
+      "phone": "17360076760",
+      "pwd": "mirror-0",
+      "verify_code": "8886",
+      "expect_text": "验证码错误"
+    }
+  ],
+    "login_9": [
+    {
+      "desc": "登录失败",
+      "phone": "17360076760",
+      "pwd": "mirror-0",
+      "verify_code": "",
+      "expect_text": "验证码不能为空!"
+    }
+  ]
+}

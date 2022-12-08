@@ -1,0 +1,357 @@
+2021-12-17 11:37:24,125 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="6e292560-5169-4fbf-b2e0-2351a6bda840")>
+2021-12-17 11:37:24,126 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="6e292560-5169-4fbf-b2e0-2351a6bda840")>
+2021-12-17 11:37:24,126 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='我的']")
+2021-12-17 11:37:24,126 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='我的']")
+2021-12-17 11:37:24,515 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 11:37:24,516 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 11:37:25,584 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']") 输入内容：13600001111
+2021-12-17 11:37:25,585 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']")
+2021-12-17 11:37:34,492 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 11:37:34,492 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 11:37:40,874 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 11:37:40,874 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 11:37:44,527 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 11:37:44,527 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 11:37:47,142 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 11:37:47,142 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 11:37:48,224 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='首页']")
+2021-12-17 11:37:48,224 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='首页']")
+2021-12-17 11:37:49,427 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:37:49,427 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:37:52,222 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@class='android.widget.EditText']") 输入内容：小米
+2021-12-17 11:37:52,222 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:38:01,639 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 11:38:01,639 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 11:38:03,280 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 11:38:03,280 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 11:38:04,622 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 11:38:04,622 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 11:38:08,076 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:38:08,076 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:38:18,118 ERROR [test01_app_login_order.py(test01_login_order:39)] - Message: 
+
+2021-12-17 11:38:18,118 INFO [base.py(base_get_img:44)] - 正调用截图方法
+2021-12-17 11:38:32,665 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="3d3f1894-62ff-4776-b54f-a2cbb98ff8c2")>
+2021-12-17 11:38:32,665 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="3d3f1894-62ff-4776-b54f-a2cbb98ff8c2")>
+2021-12-17 11:38:32,665 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='我的']")
+2021-12-17 11:38:32,665 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='我的']")
+2021-12-17 11:38:33,655 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 11:38:33,655 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 11:38:34,604 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']") 输入内容：13600001111
+2021-12-17 11:38:34,604 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']")
+2021-12-17 11:38:43,771 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 11:38:43,771 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 11:38:50,157 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 11:38:50,158 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 11:38:53,950 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 11:38:53,950 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 11:38:56,253 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 11:38:56,254 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 11:38:57,330 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='首页']")
+2021-12-17 11:38:57,330 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='首页']")
+2021-12-17 11:38:58,529 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:38:58,529 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:38:59,829 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@class='android.widget.EditText']") 输入内容：小米
+2021-12-17 11:38:59,829 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:39:09,134 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 11:39:09,134 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 11:39:10,655 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 11:39:10,655 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 11:39:11,990 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 11:39:11,990 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 11:39:15,124 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:39:15,124 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:39:26,615 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='购物车']")
+2021-12-17 11:39:26,615 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='购物车']")
+2021-12-17 11:39:27,876 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 11:39:27,877 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 11:39:29,321 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 11:39:29,322 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 11:39:30,777 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 11:39:30,777 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 11:39:32,257 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 11:39:32,257 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 11:39:42,102 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:39:42,102 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:39:44,807 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 11:39:44,807 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 11:39:44,849 INFO [test01_app_login_order.py(test01_login_order:37)] - =======>app下单成功，订单编号为：202112171139296714
+2021-12-17 11:39:52,146 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="9491a6ff07cb62588f31749c0c588f03")>
+2021-12-17 11:39:52,146 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="9491a6ff07cb62588f31749c0c588f03")>
+2021-12-17 11:39:52,146 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='username']") 输入内容：admin
+2021-12-17 11:39:52,146 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='username']")
+2021-12-17 11:39:52,281 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='password']") 输入内容：123456
+2021-12-17 11:39:52,281 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='password']")
+2021-12-17 11:39:52,339 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='vertify']") 输入内容：8888
+2021-12-17 11:39:52,339 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='vertify']")
+2021-12-17 11:39:52,422 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', "[name='submit']")
+2021-12-17 11:39:52,422 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='submit']")
+2021-12-17 11:39:53,162 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('css selector', '.bgdopa-t')
+2021-12-17 11:39:53,162 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.bgdopa-t')
+2021-12-17 11:39:53,182 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='订单']")
+2021-12-17 11:39:53,182 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='订单']")
+2021-12-17 11:39:53,522 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='发货单']")
+2021-12-17 11:39:53,522 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='发货单']")
+2021-12-17 11:39:53,714 INFO [base.py(base_switch_frame:50)] - 正在调用切换frame方法，切换对象：('css selector', '#workspace')
+2021-12-17 11:39:53,714 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '#workspace')
+2021-12-17 11:39:53,736 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//div[text()='None']/../..//td[@class='handle']//a[1]")
+2021-12-17 11:39:53,736 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//div[text()='None']/../..//td[@class='handle']//a[1]")
+2021-12-17 11:45:21,426 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="d17d2a4a-a27b-4af4-92df-f28b39e02817")>
+2021-12-17 11:45:21,426 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="d17d2a4a-a27b-4af4-92df-f28b39e02817")>
+2021-12-17 11:45:21,426 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='我的']")
+2021-12-17 11:45:21,426 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='我的']")
+2021-12-17 11:45:22,719 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 11:45:22,720 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 11:45:24,023 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']") 输入内容：13600001111
+2021-12-17 11:45:24,023 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']")
+2021-12-17 11:45:32,864 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 11:45:32,864 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 11:45:39,281 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 11:45:39,281 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 11:45:42,959 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 11:45:42,959 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 11:45:45,535 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 11:45:45,535 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 11:45:46,597 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='首页']")
+2021-12-17 11:45:46,597 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='首页']")
+2021-12-17 11:45:47,790 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:45:47,790 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:45:48,969 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@class='android.widget.EditText']") 输入内容：小米
+2021-12-17 11:45:48,969 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 11:45:58,467 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 11:45:58,467 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 11:45:59,880 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 11:45:59,880 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 11:46:01,315 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 11:46:01,315 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 11:46:03,093 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:46:03,093 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:46:04,824 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='购物车']")
+2021-12-17 11:46:04,824 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='购物车']")
+2021-12-17 11:46:06,230 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 11:46:06,230 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 11:46:07,657 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 11:46:07,657 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 11:46:09,108 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 11:46:09,108 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 11:46:10,424 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 11:46:10,424 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 11:46:20,303 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:46:20,304 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 11:46:22,976 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 11:46:22,976 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 11:46:23,011 INFO [test01_app_login_order.py(test01_login_order:37)] - =======>app下单成功，订单编号为：202112171146085122
+2021-12-17 11:46:30,157 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="ee419cdfe7887ffb0ee15d245ee3dcba")>
+2021-12-17 11:46:30,157 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="ee419cdfe7887ffb0ee15d245ee3dcba")>
+2021-12-17 11:46:30,157 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='username']") 输入内容：admin
+2021-12-17 11:46:30,157 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='username']")
+2021-12-17 11:46:30,290 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='password']") 输入内容：123456
+2021-12-17 11:46:30,290 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='password']")
+2021-12-17 11:46:30,365 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='vertify']") 输入内容：8888
+2021-12-17 11:46:30,365 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='vertify']")
+2021-12-17 11:46:30,430 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', "[name='submit']")
+2021-12-17 11:46:30,430 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='submit']")
+2021-12-17 11:46:31,147 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('css selector', '.bgdopa-t')
+2021-12-17 11:46:31,147 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.bgdopa-t')
+2021-12-17 11:46:31,168 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='订单']")
+2021-12-17 11:46:31,168 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='订单']")
+2021-12-17 11:46:31,743 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='发货单']")
+2021-12-17 11:46:31,743 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='发货单']")
+2021-12-17 11:46:31,913 INFO [base.py(base_switch_frame:50)] - 正在调用切换frame方法，切换对象：('css selector', '#workspace')
+2021-12-17 11:46:31,913 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '#workspace')
+2021-12-17 11:46:31,940 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//div[text()='None']/../..//td[@class='handle']//a[1]")
+2021-12-17 11:46:31,940 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//div[text()='None']/../..//td[@class='handle']//a[1]")
+2021-12-17 11:46:42,180 ERROR [test02_web_login_order.py(test01_web_login_order:37)] - Message: 
+
+2021-12-17 11:46:42,180 INFO [base.py(base_get_img:44)] - 正调用截图方法
+2021-12-17 11:52:04,718 INFO [util.py(<module>:90)] - 日志测试
+2021-12-17 11:53:00,861 INFO [util.py(<module>:90)] - 日志测试
+2021-12-17 11:53:57,464 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 11:54:14,003 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 11:55:26,366 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 11:55:51,030 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 11:56:37,118 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 11:57:37,201 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 11:58:04,675 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 12:02:19,687 INFO [util.py(<module>:89)] - 日志测试
+2021-12-17 12:02:34,324 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="46b87863-aa18-45d0-8903-36316b13c998")>
+2021-12-17 12:02:34,324 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="46b87863-aa18-45d0-8903-36316b13c998")>
+2021-12-17 12:02:34,324 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='我的']")
+2021-12-17 12:02:34,324 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='我的']")
+2021-12-17 12:02:35,595 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 12:02:35,595 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 12:02:36,690 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']") 输入内容：13600001111
+2021-12-17 12:02:36,690 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']")
+2021-12-17 12:02:42,800 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 12:02:42,800 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 12:02:49,121 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 12:02:49,121 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 12:02:52,822 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 12:02:52,822 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 12:02:55,185 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 12:02:55,185 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 12:02:56,276 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='首页']")
+2021-12-17 12:02:56,276 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='首页']")
+2021-12-17 12:02:57,557 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:02:57,557 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:02:58,850 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@class='android.widget.EditText']") 输入内容：小米
+2021-12-17 12:02:58,850 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:03:05,293 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 12:03:05,293 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 12:03:06,754 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 12:03:06,754 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 12:03:17,120 ERROR [test01_app_login_order.py(test01_login_order:39)] - Message: 
+
+2021-12-17 12:03:17,121 INFO [base.py(base_get_img:44)] - 正调用截图方法
+2021-12-17 12:03:31,806 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="22ffecf6-6a1d-40c6-be81-c1c06659dff2")>
+2021-12-17 12:03:31,806 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="22ffecf6-6a1d-40c6-be81-c1c06659dff2")>
+2021-12-17 12:03:31,807 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='我的']")
+2021-12-17 12:03:31,807 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='我的']")
+2021-12-17 12:03:32,796 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 12:03:32,796 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 12:03:33,887 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']") 输入内容：13600001111
+2021-12-17 12:03:33,887 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']")
+2021-12-17 12:03:42,564 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 12:03:42,564 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 12:03:49,092 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 12:03:49,093 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 12:03:52,799 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 12:03:52,799 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 12:03:55,496 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 12:03:55,496 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 12:03:56,555 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='首页']")
+2021-12-17 12:03:56,555 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='首页']")
+2021-12-17 12:03:57,753 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:03:57,754 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:03:58,909 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@class='android.widget.EditText']") 输入内容：小米
+2021-12-17 12:03:58,909 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:04:08,780 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 12:04:08,780 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 12:04:10,294 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 12:04:10,295 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 12:04:11,632 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 12:04:11,632 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 12:04:14,108 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:04:14,109 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:04:15,617 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='购物车']")
+2021-12-17 12:04:15,617 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='购物车']")
+2021-12-17 12:04:16,895 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 12:04:16,895 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 12:04:18,440 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 12:04:18,440 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 12:04:19,816 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 12:04:19,817 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 12:04:21,085 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 12:04:21,085 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 12:04:30,940 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:04:30,940 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:04:33,613 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 12:04:33,613 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 12:04:33,662 INFO [test01_app_login_order.py(test01_login_order:37)] - =======>app下单成功，订单编号为：202112171204182180
+2021-12-17 12:04:42,351 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="7512c1e5510ee256da6d19ac8117de04")>
+2021-12-17 12:04:42,351 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="7512c1e5510ee256da6d19ac8117de04")>
+2021-12-17 12:04:42,351 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='username']") 输入内容：admin
+2021-12-17 12:04:42,351 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='username']")
+2021-12-17 12:04:42,530 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='password']") 输入内容：123456
+2021-12-17 12:04:42,531 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='password']")
+2021-12-17 12:04:42,596 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='vertify']") 输入内容：8888
+2021-12-17 12:04:42,596 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='vertify']")
+2021-12-17 12:04:42,716 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', "[name='submit']")
+2021-12-17 12:04:42,716 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='submit']")
+2021-12-17 12:04:46,595 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('css selector', '.bgdopa-t')
+2021-12-17 12:04:46,595 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.bgdopa-t')
+2021-12-17 12:04:46,616 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='订单']")
+2021-12-17 12:04:46,616 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='订单']")
+2021-12-17 12:04:47,071 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='发货单']")
+2021-12-17 12:04:47,071 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='发货单']")
+2021-12-17 12:04:47,231 INFO [base.py(base_switch_frame:50)] - 正在调用切换frame方法，切换对象：('css selector', '#workspace')
+2021-12-17 12:04:47,231 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '#workspace')
+2021-12-17 12:04:47,254 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//div[text()='202112171204182180']/../..//td[@class='handle']//a[1]")
+2021-12-17 12:04:47,254 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//div[text()='202112171204182180']/../..//td[@class='handle']//a[1]")
+2021-12-17 12:04:47,991 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', "[value='YZPY']")
+2021-12-17 12:04:47,991 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[value='YZPY']")
+2021-12-17 12:04:48,018 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', '#invoice_no') 输入内容：20211217120448
+2021-12-17 12:04:48,019 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '#invoice_no')
+2021-12-17 12:04:48,117 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', '.ncap-btn-send')
+2021-12-17 12:04:48,117 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.ncap-btn-send')
+2021-12-17 12:04:48,385 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', '.fa-print')
+2021-12-17 12:04:48,385 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.fa-print')
+2021-12-17 12:04:51,737 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//div[@id='printDiv']/div[@class='contact-info']/dl[1]/dd[2]")
+2021-12-17 12:04:51,737 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//div[@id='printDiv']/div[@class='contact-info']/dl[1]/dd[2]")
+2021-12-17 12:04:51,758 INFO [test02_web_login_order.py(test01_web_login_order:34)] - =======>发货成功，发货的订单号为：202112171204182180
+2021-12-17 12:05:52,090 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="a5b45114-43a9-4a6c-a3b1-9c420161fc88")>
+2021-12-17 12:05:52,091 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<appium.webdriver.webdriver.WebDriver (session="a5b45114-43a9-4a6c-a3b1-9c420161fc88")>
+2021-12-17 12:05:52,091 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='我的']")
+2021-12-17 12:05:52,091 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='我的']")
+2021-12-17 12:05:53,357 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 12:05:53,358 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/head_img']")
+2021-12-17 12:05:54,319 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']") 输入内容：13600001111
+2021-12-17 12:05:54,319 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/mobile_et']")
+2021-12-17 12:06:03,415 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 12:06:03,415 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 12:06:09,944 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 12:06:09,944 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/agree_btn']")
+2021-12-17 12:06:13,657 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 12:06:13,657 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/login_tv']")
+2021-12-17 12:06:16,153 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 12:06:16,153 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/nick_name_tv']")
+2021-12-17 12:06:17,246 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='首页']")
+2021-12-17 12:06:17,246 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='首页']")
+2021-12-17 12:06:18,475 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:06:18,475 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:06:19,653 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@class='android.widget.EditText']") 输入内容：小米
+2021-12-17 12:06:19,653 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@class='android.widget.EditText']")
+2021-12-17 12:06:28,882 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 12:06:28,882 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/search_btn']")
+2021-12-17 12:06:30,340 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 12:06:30,340 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/product_pic_img']")
+2021-12-17 12:06:31,723 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 12:06:31,723 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/add_cart_tv']")
+2021-12-17 12:06:34,472 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:06:34,472 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:06:35,876 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='购物车']")
+2021-12-17 12:06:35,876 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='购物车']")
+2021-12-17 12:06:37,352 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 12:06:37,352 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即购买']")
+2021-12-17 12:06:38,767 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 12:06:38,767 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='提交订单']")
+2021-12-17 12:06:40,357 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 12:06:40,357 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='立即支付']")
+2021-12-17 12:06:41,693 INFO [base.py(base_input:29)] - 正调用输入元素方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']") 输入内容：123456
+2021-12-17 12:06:41,693 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pwd_et']")
+2021-12-17 12:06:51,644 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:06:51,644 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@text='确定']")
+2021-12-17 12:06:54,373 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 12:06:54,373 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//*[@resource-id='com.tpshop.malls:id/pay_trade_no_tv']")
+2021-12-17 12:06:54,435 INFO [test01_app_login_order.py(test01_login_order:37)] - =======>app下单成功，订单编号为：202112171206392932
+2021-12-17 12:07:03,056 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="18d04efb854cbbcae2321831b556539e")>
+2021-12-17 12:07:03,056 INFO [base.py(__init__:14)] - 正在初始化，driver对象：<selenium.webdriver.chrome.webdriver.WebDriver (session="18d04efb854cbbcae2321831b556539e")>
+2021-12-17 12:07:03,056 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='username']") 输入内容：admin
+2021-12-17 12:07:03,056 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='username']")
+2021-12-17 12:07:03,281 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='password']") 输入内容：123456
+2021-12-17 12:07:03,282 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='password']")
+2021-12-17 12:07:03,360 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', "[name='vertify']") 输入内容：8888
+2021-12-17 12:07:03,360 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='vertify']")
+2021-12-17 12:07:03,485 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', "[name='submit']")
+2021-12-17 12:07:03,485 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[name='submit']")
+2021-12-17 12:07:07,412 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('css selector', '.bgdopa-t')
+2021-12-17 12:07:07,412 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.bgdopa-t')
+2021-12-17 12:07:07,434 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='订单']")
+2021-12-17 12:07:07,434 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='订单']")
+2021-12-17 12:07:08,017 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//a[text()='发货单']")
+2021-12-17 12:07:08,017 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//a[text()='发货单']")
+2021-12-17 12:07:08,183 INFO [base.py(base_switch_frame:50)] - 正在调用切换frame方法，切换对象：('css selector', '#workspace')
+2021-12-17 12:07:08,183 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '#workspace')
+2021-12-17 12:07:08,208 INFO [base.py(base_click:24)] - 正调用点击元素：('xpath', "//div[text()='202112171206392932']/../..//td[@class='handle']//a[1]")
+2021-12-17 12:07:08,208 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//div[text()='202112171206392932']/../..//td[@class='handle']//a[1]")
+2021-12-17 12:07:08,931 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', "[value='YZPY']")
+2021-12-17 12:07:08,931 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', "[value='YZPY']")
+2021-12-17 12:07:08,961 INFO [base.py(base_input:29)] - 正调用输入元素方法：('css selector', '#invoice_no') 输入内容：20211217120708
+2021-12-17 12:07:08,962 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '#invoice_no')
+2021-12-17 12:07:09,102 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', '.ncap-btn-send')
+2021-12-17 12:07:09,103 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.ncap-btn-send')
+2021-12-17 12:07:09,482 INFO [base.py(base_click:24)] - 正调用点击元素：('css selector', '.fa-print')
+2021-12-17 12:07:09,482 INFO [base.py(base_find:19)] - 正在查找元素：('css selector', '.fa-print')
+2021-12-17 12:07:12,720 INFO [base.py(base_get_text:39)] - 正调用获取元素信息方法：('xpath', "//div[@id='printDiv']/div[@class='contact-info']/dl[1]/dd[2]")
+2021-12-17 12:07:12,720 INFO [base.py(base_find:19)] - 正在查找元素：('xpath', "//div[@id='printDiv']/div[@class='contact-info']/dl[1]/dd[2]")
+2021-12-17 12:07:12,741 INFO [test02_web_login_order.py(test01_web_login_order:34)] - =======>发货成功，发货的订单号为：202112171206392932

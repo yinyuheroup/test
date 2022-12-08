@@ -1,0 +1,20 @@
+{
+  "login_1": [
+    {
+      "desc": "登录成功",
+      "phone": "17360076760",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "17360076760"
+    }
+  ],
+    "login_2": [
+    {
+      "desc": "登录成功",
+      "phone": "1105439830@qq.com",
+      "pwd": "mirror-0",
+      "verify_code": "8888",
+      "expect_text": "1105439830@qq.com"
+    }
+  ]
+}

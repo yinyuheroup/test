@@ -1,0 +1,10 @@
+{
+"login": [
+{
+"desc":"登录成功",
+"phone": "webadmin",
+"password": "webadmin",
+"expect_text": "开始创建方案"
+}
+]
+}
